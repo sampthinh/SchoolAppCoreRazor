@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAppCoreRazor", "SchoolAppCoreRazor\SchoolAppCoreRazor.csproj", "{DB498CFF-9366-4CDC-B873-F941F3E6AAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB498CFF-9366-4CDC-B873-F941F3E6AAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB498CFF-9366-4CDC-B873-F941F3E6AAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB498CFF-9366-4CDC-B873-F941F3E6AAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB498CFF-9366-4CDC-B873-F941F3E6AAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC11A13-67B5-4412-BE98-202AF0DCF3EC}
+	EndGlobalSection
+EndGlobal
